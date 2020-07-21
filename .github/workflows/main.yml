@@ -1,4 +1,4 @@
-- name: WakaReadme
+name: WakaReadme
 
 on:
   schedule:
