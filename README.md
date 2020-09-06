@@ -3,6 +3,13 @@
 …alhough this doesn't always acurately reflect the proportion of languages, here's a rougn idea:
 
 <!--START_SECTION:waka-->
+```text
+Markdown     2 hrs 2 mins    ██████████████████▒░░░░░░   73.13 % 
+HTML         39 mins         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+```
 <!--END_SECTION:waka-->
 
 The Wakatime readout should be above - see [the waka-readme repo](https://github.com/athul/waka-readme) and the [other page about this](https://github.com/marketplace/actions/waka-readme) because the instructions aren't really clear and seem to end with
