@@ -1,4 +1,6 @@
-# It would be wonderful to see my WakaTime stats here…
+# What I've been working on
+
+…alhough this doesn't always acurately reflect the proportion of languages, here's a rougn idea:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -8,8 +10,6 @@ The Wakatime readout should be above - see [the waka-readme repo](https://github
 > That's it! The Action runs everyday at 00.00 UTC"
 
 which makes the rest of the text look optional.
-
-So far, I just **cannot** get this to work, despite following the instructions twice…
 
 ---
 
