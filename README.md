@@ -1,38 +1,10 @@
 # What I've been working on
 
-…this doesn't always acurately reflect the proportion of languages, but here's a rough idea:
+I used to use Wakatime to track my use of various languages, but after a couple of weeks where it failed to update, I decided to stop because:
 
-<!--START_SECTION:waka-->
-```text
-Markdown     2 hrs 2 mins    ██████████████████▒░░░░░░   73.13 % 
-HTML         39 mins         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-```
-<!--END_SECTION:waka-->
+1. it doesn’t really help me do anything
+2. I don’t have the time or patience to debug it
 
-Instructions for the Wakatime readout above (see [the waka-readme repo](https://github.com/athul/waka-readme) and the [other page about this](https://github.com/marketplace/actions/waka-readme)) aren't really clear and seem to end with "That's it! The Action runs everyday at 00.00 UTC" which makes the rest of the text look optional.
+Goodbye [Wakatime](https://wakatime.com/dashboard), and thanks for all the fish.
 
----
-
-## The code
-
-```
-name: Waka Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-```
+**Postscript**: I took a screen shot of all my Wakatime pie charts, might put them up here when I have nothing else to do (unlikely!)
