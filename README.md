@@ -5,9 +5,13 @@
 - Using Static Site Generator (SSG) [Nanoc](https://nanoc.app) (I like it a lot better than Jekyll) with one extremely complex and another simpler website. I’ve contributed to the Nanoc website in the past.
 - Moving a lot of former fiction and poetry to Markdown (private repos for now)
 - Cataloguing and listing my [vintage Apple Mac hardware](https://daveeveritt.github.io/vintage-mac-lists/) and software (mainly to sell or give to worthy collectors)
-- Making commonly-used website features into compact ready-mades: [CSS Lightbox](https://daveeveritt.github.io/css-lightbox/), [bookmarkable CSS tabs](https://daveeveritt.github.io/css-sibling-tabs/),
+- Making commonly-used website features into compact ready-mades e.g.:
+    - [CSS Lightbox](https://daveeveritt.github.io/css-lightbox/)
+    - [bookmarkable CSS tabs](https://daveeveritt.github.io/css-sibling-tabs/)…
+    - [multiple popups from clickable triggers](https://github.com/DaveEveritt/markers/blob/master/styles-css.css)
+    - an [automated slider](https://daveeveritt.github.io/css-slider-panel/) (like the ones people put at the top of websites)
+    - etc. …
 - Making CheatSheets in [Markdown](https://daveeveritt.github.io/markdown-overview/#/markdown "A presentation I made to explain Markdown") for my own quickreference (e,g, [GIT](https://daveeveritt.github.io/git-minimal/), [CSS Flexbox](), ) I also sent them to students when I was teaching front-end web technologies
-- Making pure CSS solutions to common design patterns: e.g. [multiple popups from clickable triggers](https://github.com/DaveEveritt/markers/blob/master/styles-css.css), an [automated slider](https://daveeveritt.github.io/css-slider-panel/) (likethe ones people put at the top of websites…
 - Getting WebGL to show .obj files of [models of Roman artefacts](https://daveeveritt.github.io/js3d/) I made for Leicestershire Archaeology
 - Playing with public APIs to get nformation, like this one that tracks [UK Government Petitions](https://daveeveritt.github.io/gov-petitions/)
 - Little JavaScript things I like to play with, like:
@@ -19,6 +23,7 @@
     - making a [Single-Page website from Markdown](https://github.com/DaveEveritt/markdown-site-generator/tree/master)
     - making a [list of days that starts with today](https://daveeveritt.github.io/weekday-reorder-array/)
     - putting a [zero before single date numbers](https://daveeveritt.github.io/leading-zero-dates/)
+    - etc. …
 - Writing up my [late father’s memoirs](https://daveeveritt.github.io/bill-everitt-memoirs/)
 - Reinterpreting the principles of the [Unix Philosophy for Real Life](https://daveeveritt.github.io/unix-for-life/)
 - Pondering a rewrite of the [tutorial website](https://daveeveritt.github.io/web-coding-first-site/) used for my [Web Coding First Steps](https://leanpub.com/webcodingfirststeps) book on LeanPub
